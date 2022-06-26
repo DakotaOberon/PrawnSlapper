@@ -1,6 +1,9 @@
-# PrawnSlapper
- A Game About Slapping Prawns To Cook Them
+<p align="center"><img src="https://raw.githubusercontent.com/DakotaOberon/PrawnSlapper/main/sprites/sHand/d817ab20-05fd-4a97-abe8-f359adb7773c.png" style="display:block; margin:auto; width:200px"></p>
+<h1 align="center">Prawn Slapper</h1>
 
+ <p align="center">A Game About Slapping Prawns To Cook Them</p>
+
+---
 ## To set up this project for use with OperaGX
 - Follow the guide at https://gamemaker.io/en/tutorials/gxc-challenges
 - Set your challenge id string in Scripts/Challenges
